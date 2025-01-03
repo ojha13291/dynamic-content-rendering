@@ -1,0 +1,36 @@
+{
+  "tasks": [
+    {
+      "task_id": 1,
+      "task_title": "Explore the world of management",
+      "assets": [
+        {
+          "asset_id": 101,
+          "asset_title": "Technical Project Management",
+          "asset_description": "Learn about the 4SA concept and project handling."
+        },
+        {
+          "asset_id": 102,
+          "asset_title": "Threadbuild",
+          "asset_description": "Jot down key points while watching the provided video."
+        }
+      ]
+    },
+    {
+      "task_id": 2,
+      "task_title": "Dynamic Webpage Development",
+      "assets": [
+        {
+          "asset_id": 201,
+          "asset_title": "Dynamic Content Rendering",
+          "asset_description": "Learn to create and render reusable components dynamically."
+        },
+        {
+          "asset_id": 202,
+          "asset_title": "JSON Integration",
+          "asset_description": "Understand the basics of API and JSON integration."
+        }
+      ]
+    }
+  ]
+}
